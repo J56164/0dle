@@ -1,0 +1,8 @@
+{
+    "id": "tutorials",
+    "name": "Tutorials",
+    "levelIds": [
+        "tutorial1",
+        "tutorial2"
+    ]
+}

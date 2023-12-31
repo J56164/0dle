@@ -1,0 +1,9 @@
+{
+    "id": "GRDCSpecial",
+    "name": "GRDC Special",
+    "levelIds": [
+        "fallenStar",
+        "sleepWalk",
+        "roadTrip"
+    ]
+}
